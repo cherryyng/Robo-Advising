@@ -1,5 +1,6 @@
 # Robo-Advising
 
+!! Second place winner for low-risk portfolio generation
 
 ## Introduction
 Our team chose to build a safe portfolio, which means we wanted the total portfolio value to experience very minimal change from the starting value of 500,000 dollars between the start date and the end date. 
